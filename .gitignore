@@ -1,0 +1,9 @@
+**/target/
+**/dist/
+**/node_modules/
+*.log
+compile_out.txt
+compile_output.txt
+compile_output_2.txt
+effective-pom-*.log
+hs_err_pid*.log
